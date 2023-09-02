@@ -2,42 +2,36 @@
 <img src="./assets/gh-banner.png">
 </p>
 
-<h3 align="center">
-  <samp>I'm Jazz Cruz, a
-    <b><span style="color: #86C6F4;">Software developer<span></b>.
-  </samp>
-</h3>
+<h3 align="center"><samp>I'm Jazz Cruz, a <b><span style="color: #86C6F4;">Software developer<span></b>.</samp></h3>
 
-<p align="center"> 
-  <samp>
-     I like to craft <b>digital goodies</b> for the web. 
-  </samp>
-</p>
-
+<p align="center"><samp>I like to craft <b>digital goodies</b> for the web. </samp></p>
 
 <p align="center">
- <a href="https://jazzcruz.vercel.app" target="blank">
+<a href="https://jazzcruz.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="jazzcruz" />
- </a>
- &nbsp;
-  <a href="https://linkedin.com/in/jazellecruz" target="blank">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/jazellecruz" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jazzcruz" />
- </a>
- &nbsp;
-  <a href="mailto: jazellecruz22@gmail.com" target="blank">
+</a>
+&nbsp;
+<a href="mailto: jazellecruz22@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jazzcruz" />
- </a>
+</a>
 </p>
 
 <br/>
 
 <h3 align="center">About Me</h3>
-<ul>
-<li align="center" style="list-style-type: none;">👩‍🎓 Actively pursuing my bachelors in Information Technology.</li>
-<li align="center" style="list-style-type: none;">💻 Enjoys programming and building projects.</li>
-<li align="center" style="list-style-type: none;">🤠 Use JavaScript as my primary language but I secretly hate it.</li>
-<li align="center" style="list-style-type: none;">🐈 Can detect a cat within a hundred miles.</li>
-</ul>
+<p align="center">
+👩‍🎓 Actively pursuing my bachelors in Information Technology.
+<br/>
+💻 Enjoys programming and building projects.
+<br/>
+🤠 Use JavaScript as my primary language but I secretly hate it.
+<br/>
+🐈 Can detect a cat within a hundred miles.
+</p>
 
 <br/>
 
@@ -67,9 +61,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazellecruz&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-  </a>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jazellecruz&theme=tokyonight-duo" />
 </p>
 
 <p align="center">
@@ -77,17 +69,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jazellecruz&show_icons=true&theme=tokyonight" />
-  </a>
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jazellecruz&theme=tokyonight-duo" />
+  <img align="center" height="192px" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jazellecruz&show_icons=true&theme=tokyonight" />
+  <img align="center" height="192px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazellecruz&layout=compact&theme=tokyonight&langs_count=4&">
 </p>
 
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jazellecruz/jazellecruz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jazellecruz/jazellecruz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jazellecruz/jazellecruz/output/github-contribution-grid-snake-dark.svg.svg">
 </picture>
-
 
