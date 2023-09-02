@@ -84,6 +84,6 @@
 </p>
 
 
-![snake svg](https://github.com/jazellecruz/jazellecruz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jazellecruz/jazellecruz/blob/output/github-contribution-grid-snake.gif)
 
 
