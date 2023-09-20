@@ -1,8 +1,8 @@
 <p align="center">
-<img src="./assets/gh-banner.png">
+<img src="./assets/gh-gradient.png">
 </p>
 
-<h3 align="center"><samp>I'm Jazz Cruz, a <b><span style="color: #86C6F4;">Software developer<span></b>.</samp></h3>
+<h3 align="center"><samp>I'm Jazz Cruz, a <b><span style="color: #86C6F4;">Developer<span></b> in motion.</samp></h3>
 
 <p align="center"><samp>I like to craft <b>digital goodies</b> for the web. </samp></p>
 
