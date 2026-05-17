@@ -1,11 +1,6 @@
 ### Hi there 👋 
 My name is **Jazz**. Welcome to my GitHub! This is where I show my stuff.
 
-- ⚙️ Currently focusing on backend development.
-- ⛏️ I like to build tools that solve my own problems.
-- 🐈 Can detect a cat within a 100-mile radius.
-- 🙂 Hobbies include reading and avoiding people.
-
 <br>
 
 👩‍💻 **Skills and Tools** 
